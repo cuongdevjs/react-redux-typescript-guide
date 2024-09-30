@@ -15,6 +15,6 @@
     "react-docgen-typescript": "1.12.3",
     "react-styleguidist": "8.0.6",
     "typescript": "3.1.6",
-    "webpack-blocks": "1.0.0"
+    "webpack-blocks": "2.0.0"
   }
 }
